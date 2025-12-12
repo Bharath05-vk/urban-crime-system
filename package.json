@@ -1,0 +1,9 @@
+{
+    "name": "urban-crime-mvp",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start:frontend": "cd frontend && npm run dev",
+        "start:backend": "echo \"Start your backend server here\""
+    }
+}
